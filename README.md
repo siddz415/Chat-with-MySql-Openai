@@ -9,3 +9,6 @@ SQL Query Generation: Dynamically generates SQL queries based on the user's natu
 Database Interaction: Connects to a SQL database to retrieve query results, demonstrating practical database interaction.
 Streamlit GUI: Features a user-friendly interface built with Streamlit, making it easy for users of all skill levels.
 Python-based: Entirely coded in Python, showcasing best practices in software development with modern technologies.
+
+# Screenshot
+![Screenshot of the Site](./images/sql.png?raw=true)
